@@ -1,0 +1,9 @@
+{
+    "name":"Minha Primeira Extensão",
+    "description":"Extensão para alertas.",
+    "version":"0.0.1",
+    "browser_action":{
+        "default_popup":"index.html"
+    },
+    "manifest_version":"2"
+}
